@@ -2,6 +2,7 @@
 I spent most of my late twenties in the Ivory Coast. Trading, processing and exporting cashew nuts. My journey would take me around the world, visiting processing sites, equipment manufactures and clients. In this repo you can find the initial feasability study, sample production flow, and a spreadsheet of three years of raw cashew nut arrivals from the bush in Abidjan. Including weight, number of bags, quality, moisture, region and supplier code.
 
 There is also a folder with pictures that can be viewed chronologically or categorically.
+The pictures document the story of how a cashew processing plant materializes in west africa. I over saw the entire project, from machine purcahses, to client aquisition, to factory rennovation and certification.
 
 Some Interesting insights to cashew trade.
 
